@@ -1,1 +1,1 @@
-A beginner's code to creating a stopwatch using React
+A beginner's code to creating a stopwatch using React Only the main files are included in the repo Kindly create a new react app and replace the main files.
